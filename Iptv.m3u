@@ -1,0 +1,229 @@
+#EXTM3U
+
+
+############################################################################ CANAIS ABERTOS 
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo SP HD
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",RecordTV SP HD
+https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP HD
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
+
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",RedeTV!
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+
+############################################################################ CANAIS ESPORTES
+ 
+
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
+https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/172
+
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/175
+
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD
+https://cr7v.short.gy/manoiptvfree/ESPN/Index.m3u8
+
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES",ESPN 2 HD
+https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 HD
+https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Canais | ESPORTES",Band Sports HD [Alter]
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate HD
+http://148.113.160.49:14124/
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | ESPORTES",UFC Fightpass HD [Alter]
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/1121
+
+############################################################################ CANAIS PREMIERE
+
+
+
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD [Alter]
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/165
+
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/150
+
+
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD 
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/154
+
+
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/156
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD 
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/158
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/160
+
+############################################################################ FUTEBOL AO VIVO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV YT 
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT YT
+https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 1
+https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 2
+https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 3
+https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 4
+https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 5
+https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 6
+https://cr7v.short.gy/JOGO/testechamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 7
+https://cr7v.short.gy/JOGO2/testechamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 8
+https://cr7v.short.gy/JOGO3/testechamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 9
+https://cr7v.short.gy/JOGO4/testechamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 10
+https://cr7v.short.gy/JOGO5/testechamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 11
+https://cr7v.short.gy/JOGO6/testechamaWhats75991634025.m3u8
+
+
+
+############################################################################  LOKI S01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Serie | LOKI S01",S01 E01
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/84958/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Serie | LOKI S01",S01 E02
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/84958/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Serie | LOKI S01",S01 E03
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/84958/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Serie | LOKI S01",S01 E04
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/84958/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Serie | LOKI S01",S01 E05
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/84958/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Serie | LOKI S01",S01 E06
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/84958/1x6.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Serie | LOKI S01",S02 E01
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/84958/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Serie | LOKI S01",S02 E02
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/84958/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Serie | LOKI S01",S02 E03
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/84958/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Serie | LOKI S01",S02 E04
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/84958/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Serie | LOKI S01",S02 E05
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/84958/2x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Serie | LOKI S01",S02 E06
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/84958/2x6.mp4
+
+
+
+############################################################################  FILMES
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLMgDASLW4x3SGxi0_bPw0CP_San2NzyFf1fwiTWLdpMXYD4VFHwWL9vo&s=10" group-title="FILMES",Jogos Mortais X
+https://hls-2.astr.fun/hls/jogos-mortais-x-2023/master.m3u8?hash=8iMc7Z8qY_6FqOGJCi84SQ&expires=1721034536
+
+
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnnVSBhMIgxIrgOj9g0-eH5t_Y9BsQ-7SCOvDSQu6aEUb7ZWPMYBC-LA&s=10"  group-title="FILMES",Vigadores Era De Ultron
+https://hls-2.astr.fun/hls/vingadores-era-de-ultron/master.m3u8?hash=3eDH7EvZ5hz3D6saWqxIbA&expires=1721034673
+
+
+
+############################################################################ NARUTO
+
+
+
+
+
+
+#EXTINF:-1    tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdihpA5VP0pRxo2fDTVL3ye2DTCooOG0cEmVhy9psDayqDZHQqKimepYSC&s=10"   group-title="NARUTO", EPISODIO 1
+https://mangas.cloud//Animes/Letra-N/Naruto%20Classico%20Dublado/001.mp4 ,group-title="NARUTO" ,episodio 2
+https://mangas.cloud//Animes/Letra-N/Naruto%20Classico%20Dublado/002.mp4
+
+
+
+
+
+
+#EXTINF:-1  group-title="NARUTO",EPISODIO 3
+https://mangas.cloud//Animes/Letra-N/Naruto%20Classico%20Dublado/003.mp4
+
+
+#EXTINF:-1 group-title="NARUTO",EPISODIO 4
+https://mangas.cloud//Animes/Letra-N/Naruto%20Classico%20Dublado/004.mp4
+
+
+#EXTINF:-1 group-title="NARUTO", EPISODIO 5
+https://mangas.cloud//Animes/Letra-N/Naruto%20Classico%20Dublado/005.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
