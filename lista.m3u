@@ -5,7 +5,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo SP HD
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png"
+group-title="Canais | ABERTO",Globo SP HD
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 
