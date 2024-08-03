@@ -558,7 +558,8 @@ http://digplus.me:80/65515104/59962229/3916510
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JFaxQxBAjKQbdKDytKrHsPjo6jq91_LwpHbfFhz3bQdl.png" group-title="CANAIS | FILMES & SERIES",Cinemax SD
 http://digplus.me:80/65515104/59962229/3916511
-
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden (2007) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/lFg0YnHI7sJkPSv38a8ctE96sqr.jpg" group-title="SERIES | ANIMES",Naruto Shippuden (2007) S01 E01
+http://digplus.me:80/series/65515104/59962229/3775040.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden (2007) S02 E19" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/nRJmByfK9XdtOY73VArcN8KpKVs.jpg" group-title="SERIES | ANIMES",Naruto Shippuden (2007) S02 E19
 http://digplus.me:80/series/65515104/59962229/3775090.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden (2007) S02 E20" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/nRJmByfK9XdtOY73VArcN8KpKVs.jpg" group-title="SERIES | ANIMES",Naruto Shippuden (2007) S02 E20
