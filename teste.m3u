@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24H 44 Gatos" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/sLDGHP.png" group-title="CANAIS | DESENHOS 24H",24H 44 Gatos
-http://digplus.me:80/65515104/59962229/3920433
-#EXTINF:-1 tvg-id="" tvg-name="24H A Casa Magica da Gabby" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/QSAGhR.png" group-title="CANAIS | DESENHOS 24H",24H A Casa Magica da Gabby
-http://digplus.me:80/65515104/59962229/3920434
+
+
 #EXTINF:-1 tvg-id="" tvg-name="24H A Familia Adams" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/XNdCuz.png" group-title="CANAIS | DESENHOS 24H",24H A Familia Adams
 http://digplus.me:80/65515104/59962229/3920435
 #EXTINF:-1 tvg-id="" tvg-name="24H A Formiga e o Tamanduá" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/kNabMF.png" group-title="CANAIS | DESENHOS 24H",24H A Formiga e o Tamanduá
@@ -43,8 +41,7 @@ http://digplus.me:80/65515104/59962229/3920452
 http://digplus.me:80/65515104/59962229/3920453
 #EXTINF:-1 tvg-id="" tvg-name="24H Baby Looney Tunes" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/qqCw0I.png" group-title="CANAIS | DESENHOS 24H",24H Baby Looney Tunes
 http://digplus.me:80/65515104/59962229/3920454
-#EXTINF:-1 tvg-id="" tvg-name="24H Bacamarte e Chumbinho" tvg-logo="https://imagizer.imageshack.com/img922/9797/kME6OB.gif" group-title="CANAIS | DESENHOS 24H",24H Bacamarte e Chumbinho
-http://digplus.me:80/65515104/59962229/3920455
+
 #EXTINF:-1 tvg-id="" tvg-name="24H Bakugan" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/GwELog.png" group-title="CANAIS | DESENHOS 24H",24H Bakugan
 http://digplus.me:80/65515104/59962229/3920456
 #EXTINF:-1 tvg-id="" tvg-name="24H Barbie" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/X2fNEQ.png" group-title="CANAIS | DESENHOS 24H",24H Barbie
@@ -103,8 +100,7 @@ http://digplus.me:80/65515104/59962229/3920477
 http://digplus.me:80/65515104/59962229/3920478
 #EXTINF:-1 tvg-id="" tvg-name="24H Coragem o Cão Covarde" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/Ic3Tar.png" group-title="CANAIS | DESENHOS 24H",24H Coragem o Cão Covarde
 http://digplus.me:80/65515104/59962229/3920479
-#EXTINF:-1 tvg-id="" tvg-name="24H Cosmo Warrior Zero" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/GoZxs9.png" group-title="CANAIS | DESENHOS 24H",24H Cosmo Warrior Zero
-http://digplus.me:80/65515104/59962229/3920480
+
 #EXTINF:-1 tvg-id="" tvg-name="24H CQC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/CQC_logo_2014.png" group-title="CANAIS | SERIES 24H",24H CQC
 http://digplus.me:80/65515104/59962229/3920390
 #EXTINF:-1 tvg-id="" tvg-name="24H CSI Miami" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/jrZJxt.png" group-title="CANAIS | SERIES 24H",24H CSI Miami
@@ -385,3 +381,180 @@ http://digplus.me:80/65515104/59962229/3920426
 http://digplus.me:80/65515104/59962229/3920427
 #EXTINF:-1 tvg-id="" tvg-name="24H Todo Mundo Odeia o Cris T03" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/HUmzYG.png" group-title="CANAIS | SERIES 24H",24H Todo Mundo Odeia o Cris T03
 http://digplus.me:80/65515104/59962229/3920428
+#EXTINF:-1 tvg-id="" tvg-name="24H Todo Mundo Odeia o Cris T04" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/HUmzYG.png" group-title="CANAIS | SERIES 24H",24H Todo Mundo Odeia o Cris T04
+http://digplus.me:80/65515104/59962229/3920429
+#EXTINF:-1 tvg-id="" tvg-name="24H Tom & Jerry" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/5k2iQk.png" group-title="CANAIS | DESENHOS 24H",24H Tom & Jerry
+http://digplus.me:80/65515104/59962229/3920583
+#EXTINF:-1 tvg-id="" tvg-name="24H Toro e Pancho" tvg-logo="https://imagizer.imageshack.com/img923/7039/TrGVLD.gif" group-title="CANAIS | DESENHOS 24H",24H Toro e Pancho
+http://digplus.me:80/65515104/59962229/3920584
+#EXTINF:-1 tvg-id="" tvg-name="24H Transformers" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/YXAz95.png" group-title="CANAIS | DESENHOS 24H",24H Transformers
+http://digplus.me:80/65515104/59962229/3920585
+#EXTINF:-1 tvg-id="" tvg-name="24H Transformers Beast Machines" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/iSh7kn.png" group-title="CANAIS | DESENHOS 24H",24H Transformers Beast Machines
+http://digplus.me:80/65515104/59962229/3920586
+#EXTINF:-1 tvg-id="" tvg-name="24H Tres Espias Demais" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BUn2Dx.png" group-title="CANAIS | DESENHOS 24H",24H Tres Espias Demais
+http://digplus.me:80/65515104/59962229/3920587
+#EXTINF:-1 tvg-id="" tvg-name="24H Um Maluco no Pedaço" tvg-logo="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg" group-title="CANAIS | SERIES 24H",24H Um Maluco no Pedaço
+http://digplus.me:80/65515104/59962229/3920430
+#EXTINF:-1 tvg-id="" tvg-name="24H Uma Família da Pesada" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/fUNMlu.png" group-title="CANAIS | DESENHOS 24H",24H Uma Família da Pesada
+http://digplus.me:80/65515104/59962229/3920588
+#EXTINF:-1 tvg-id="" tvg-name="24H Ursinho Pooh e Seus Amigos" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/LEmdI3.png" group-title="CANAIS | DESENHOS 24H",24H Ursinho Pooh e Seus Amigos
+http://digplus.me:80/65515104/59962229/3920589
+#EXTINF:-1 tvg-id="" tvg-name="24H Ursinhos Carinhosos" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/ek2223.png" group-title="CANAIS | DESENHOS 24H",24H Ursinhos Carinhosos
+http://digplus.me:80/65515104/59962229/3920590
+#EXTINF:-1 tvg-id="" tvg-name="24H Vai que Cola!" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/yz8ZnU.png" group-title="CANAIS | SERIES 24H",24H Vai que Cola!
+http://digplus.me:80/65515104/59962229/3920431
+#EXTINF:-1 tvg-id="" tvg-name="24H X-Men" tvg-logo="https://i.pinimg.com/originals/cf/b0/06/cfb006d76a5ff03cb23c08d8831a4ce3.png" group-title="CANAIS | DESENHOS 24H",24H X-Men
+http://digplus.me:80/65515104/59962229/3920591
+#EXTINF:-1 tvg-id="" tvg-name="24H Zé Buscapé" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/8eC2rw.png" group-title="CANAIS | DESENHOS 24H",24H Zé Buscapé
+http://digplus.me:80/65515104/59962229/3920592
+#EXTINF:-1 tvg-id="" tvg-name="89 A RADIO ROCK" tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/89-a-rock.png" group-title="RADIO FM BRASIL",89 A RADIO ROCK
+http://digplus.me:80/65515104/59962229/3931553
+#EXTINF:-1 tvg-id="" tvg-name="A Praça é Nossa - 1" tvg-logo="https://stcotvfoco.com.br/2019/07/60149179_2241623006088736_7902805593474203648_n.png" group-title="CANAIS | COMEDIA 24H",A Praça é Nossa - 1
+http://digplus.me:80/65515104/59962229/3917319
+#EXTINF:-1 tvg-id="" tvg-name="A Praça é Nossa - 2" tvg-logo="https://stcotvfoco.com.br/2019/07/60149179_2241623006088736_7902805593474203648_n.png" group-title="CANAIS | COMEDIA 24H",A Praça é Nossa - 2
+http://digplus.me:80/65515104/59962229/3917320
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JOHVVHrNsL3RG0IjJxSQg4fjRDYJCG39cjyT3k4_b0ZV.png" group-title="CANAIS | FILMES & SERIES",A&E FHD
+http://digplus.me:80/65515104/59962229/3916490
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD²" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JOHVVHrNsL3RG0IjJxSQg4fjRDYJCG39cjyT3k4_b0ZV.png" group-title="CANAIS | FILMES & SERIES",A&E FHD²
+http://digplus.me:80/65515104/59962229/3932406
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JOHVVHrNsL3RG0IjJxSQg4fjRDYJCG39cjyT3k4_b0ZV.png" group-title="CANAIS | FILMES & SERIES",A&E HD
+http://digplus.me:80/65515104/59962229/3916491
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD²" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JOHVVHrNsL3RG0IjJxSQg4fjRDYJCG39cjyT3k4_b0ZV.png" group-title="CANAIS | FILMES & SERIES",A&E HD²
+http://digplus.me:80/65515104/59962229/3932407
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JOHVVHrNsL3RG0IjJxSQg4fjRDYJCG39cjyT3k4_b0ZV.png" group-title="CANAIS | FILMES & SERIES",A&E SD
+http://digplus.me:80/65515104/59962229/3916492
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD²" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JOHVVHrNsL3RG0IjJxSQg4fjRDYJCG39cjyT3k4_b0ZV.png" group-title="CANAIS | FILMES & SERIES",A&E SD²
+http://digplus.me:80/65515104/59962229/3932408
+#EXTINF:-1 tvg-id="" tvg-name="AAmazon ( Copa do Brasil & NBA )²" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthARdWRT3uitTowwWHVArO0g.png" group-title="CANAIS | PAY-PER-VIEW",AAmazon ( Copa do Brasil & NBA )²
+http://digplus.me:80/65515104/59962229/3916355
+#EXTINF:-1 tvg-id="" tvg-name="AAmazon ( Copa do Brasil & NBA )¹" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthARdWRT3uitTowwWHVArO0g.png" group-title="CANAIS | PAY-PER-VIEW",AAmazon ( Copa do Brasil & NBA )¹
+http://digplus.me:80/65515104/59962229/3916354
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro+ FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" group-title="CANAIS | ABERTOS",Agro+ FHD
+http://digplus.me:80/65515104/59962229/3915971
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro+ HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" group-title="CANAIS | ABERTOS",Agro+ HD
+http://digplus.me:80/65515104/59962229/3915972
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro+ SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" group-title="CANAIS | ABERTOS",Agro+ SD
+http://digplus.me:80/65515104/59962229/3915973
+#EXTINF:-1 tvg-id="" tvg-name="All Sports" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/vmxvzS.png" group-title="CANAIS | PAY-PER-VIEW",All Sports
+http://digplus.me:80/65515104/59962229/3916353
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime - 01" tvg-logo="https://m.media-amazon.com/images/I/413+SVFO39L.png" group-title="CANAIS | PAY-PER-VIEW",Amazon Prime - 01
+http://digplus.me:80/65515104/59962229/3920648
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime - 02" tvg-logo="https://m.media-amazon.com/images/I/413+SVFO39L.png" group-title="CANAIS | PAY-PER-VIEW",Amazon Prime - 02
+http://digplus.me:80/65515104/59962229/3920649
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JDT5Y_x3tG1TfmYemEkKwmnkExFvFAnd1qTBMLxa4ON6.png" group-title="CANAIS | FILMES & SERIES",AMC FHD
+http://digplus.me:80/65515104/59962229/3916493
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD²" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JDT5Y_x3tG1TfmYemEkKwmnkExFvFAnd1qTBMLxa4ON6.png" group-title="CANAIS | FILMES & SERIES",AMC FHD²
+http://digplus.me:80/65515104/59962229/3932409
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JDT5Y_x3tG1TfmYemEkKwmnkExFvFAnd1qTBMLxa4ON6.png" group-title="CANAIS | FILMES & SERIES",AMC HD
+http://digplus.me:80/65515104/59962229/3916494
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD²" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JDT5Y_x3tG1TfmYemEkKwmnkExFvFAnd1qTBMLxa4ON6.png" group-title="CANAIS | FILMES & SERIES",AMC HD²
+http://digplus.me:80/65515104/59962229/3932410
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JDT5Y_x3tG1TfmYemEkKwmnkExFvFAnd1qTBMLxa4ON6.png" group-title="CANAIS | FILMES & SERIES",AMC SD
+http://digplus.me:80/65515104/59962229/3916495
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD²" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JDT5Y_x3tG1TfmYemEkKwmnkExFvFAnd1qTBMLxa4ON6.png" group-title="CANAIS | FILMES & SERIES",AMC SD²
+http://digplus.me:80/65515104/59962229/3932411
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet 4K" tvg-logo="https://3.bp.blogspot.com/-IKw48vRj0ng/XxL4tVLxx-I/AAAAAAAAGrk/3PBqZhVTiR0vVDocG7B7vfrUtxbdcRV-QCK4BGAYYCw/s1600/Animal%2BPlanet.png" group-title="CANAIS | 4K",Animal Planet 4K
+http://digplus.me:80/65515104/59962229/3915939
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",Animal Planet FHD
+http://digplus.me:80/65515104/59962229/3916550
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet FHD²" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",Animal Planet FHD²
+http://digplus.me:80/65515104/59962229/3932559
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",Animal Planet HD
+http://digplus.me:80/65515104/59962229/3916551
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet HD²" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",Animal Planet HD²
+http://digplus.me:80/65515104/59962229/3932560
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",Animal Planet SD
+http://digplus.me:80/65515104/59962229/3916552
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet SD²" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",Animal Planet SD²
+http://digplus.me:80/65515104/59962229/3932561
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1 FM" tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/antena.png" group-title="RADIO FM BRASIL",ANTENA 1 FM
+http://digplus.me:80/65515104/59962229/3931558
+#EXTINF:-1 tvg-id="" tvg-name="Apple Tv" tvg-logo="http://tbsrv.me/images/JCCyANRZsMoq8nmV2gcKqu-X5ADPipBZSTMQiEItSEtTL6VdE6owLhanwze00QsBLDtWoxBpQOTB9Pf571VCnw.png" group-title="CANAIS | PAY-PER-VIEW",Apple Tv
+http://digplus.me:80/65515104/59962229/3932250
+
+
+
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="CANAIS | BAND",Band SP HD
+http://digplus.me:80/65515104/59962229/3916227
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="CANAIS | BAND",Band SP SD
+
+²" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthRqa9qBfRS25n7OkfkY570w.png" group-title="CANAIS | JORNALISMO",Band News FHD²
+http://digplus.me:80/65515104/59962229/3932466
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News HD" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthRqa9qBfRS25n7OkfkY570w.png" group-title="CANAIS | JORNALISMO",Band News HD
+http://digplus.me:80/65515104/59962229/3916260
+
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News SD²" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthRqa9qBfRS25n7OkfkY570w.png" group-title="CANAIS | JORNALISMO",Band News SD²
+http://digplus.me:80/65515104/59962229/3932468
+
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="https://media.cdnandroid.com/71/f7/2f/27/imagen-band-sports-0ori.jpg" group-title="CANAIS | ESPORTES",Band Sports HD
+http://digplus.me:80/65515104/59962229/3916299
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports SD²" tvg-logo="https://media.cdnandroid.com/71/f7/2f/27/imagen-band-sports-0ori.jpg" group-title="CANAIS | ESPORTES",Band Sports SD²
+http://digplus.me:80/65515104/59962229/3932555
+
+
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JBqewB5KSjRbkVKlQW77gCN3VbhNu-zl0Ep9l6DoUOnN.png" group-title="CANAIS | FILMES & SERIES",Canal Brasil HD
+http://digplus.me:80/65515104/59962229/3916503
+
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil SD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JBqewB5KSjRbkVKlQW77gCN3VbhNu-zl0Ep9l6DoUOnN.png" group-title="CANAIS | FILMES & SERIES",Canal Brasil SD
+http://digplus.me:80/65515104/59962229/3916504
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOV FHD" tvg-logo="https://ouvidoriacidadaebc.org/wp-content/uploads/2023/07/Canal-Gov-685x457.png" group-title="CANAIS | ABERTOS",CANAL GOV FHD
+http://digplus.me:80/65515104/59962229/3915978
+#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="Canal Rural HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dPo0pf.png" group-title="CANAIS | ABERTOS",Canal Rural HD
+http://digplus.me:80/65515104/59962229/3915979
+
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony HD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JN15BMQLglT4wbZimIysrR_2p1fBIQv0KWtjJYAX22zs.png" group-title="CANAIS | FILMES & SERIES",Canal Sony HD
+http://digplus.me:80/65515104/59962229/3916506
+
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony SD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JN15BMQLglT4wbZimIysrR_2p1fBIQv0KWtjJYAX22zs.png" group-title="CANAIS | FILMES & SERIES",Canal Sony SD
+http://digplus.me:80/65515104/59962229/3916507
+
+
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network HD" tvg-logo="http://tbsrv.me/images/hj2mhacu2gjgQ3CA6ND-F7kGEd9EK4zRYJqwelwHmOpfeRDcZfsjTBjRJ7uZLq6Vdyy0lBANU3f-qX7aCG6Mwu0cwqpKVS-QeqSyfvi5l9I.png" group-title="CANAIS | INFANTIS",Cartoon Network HD
+http://digplus.me:80/65515104/59962229/3916233
+
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network SD" tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png" group-title="CANAIS | INFANTIS",Cartoon Network SD
+http://digplus.me:80/65515104/59962229/3916234
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 01" tvg-logo="https://play-lh.googleusercontent.com/lPXCmCVSfI3NJ8QH0-m9hCwZhZ09sTzI4PhIgrMeZ0TQI8HXtE6jOq1bXik9V9RETA" group-title="CANAIS | PAY-PER-VIEW",Champions League 01
+http://digplus.me:80/65515104/59962229/3920654
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 02" tvg-logo="https://play-lh.googleusercontent.com/lPXCmCVSfI3NJ8QH0-m9hCwZhZ09sTzI4PhIgrMeZ0TQI8HXtE6jOq1bXik9V9RETA" group-title="CANAIS | PAY-PER-VIEW",Champions League 02
+http://digplus.me:80/65515104/59962229/3920655
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 03" tvg-logo="https://play-lh.googleusercontent.com/lPXCmCVSfI3NJ8QH0-m9hCwZhZ09sTzI4PhIgrMeZ0TQI8HXtE6jOq1bXik9V9RETA" group-title="CANAIS | PAY-PER-VIEW",Champions League 03
+http://digplus.me:80/65515104/59962229/3920656
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 04" tvg-logo="https://play-lh.googleusercontent.com/lPXCmCVSfI3NJ8QH0-m9hCwZhZ09sTzI4PhIgrMeZ0TQI8HXtE6jOq1bXik9V9RETA" group-title="CANAIS | PAY-PER-VIEW",Champions League 04
+http://digplus.me:80/65515104/59962229/3920657
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 05" tvg-logo="https://play-lh.googleusercontent.com/lPXCmCVSfI3NJ8QH0-m9hCwZhZ09sTzI4PhIgrMeZ0TQI8HXtE6jOq1bXik9V9RETA" group-title="CANAIS | PAY-PER-VIEW",Champions League 05
+http://digplus.me:80/65515104/59962229/3920658
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 06" tvg-logo="https://play-lh.googleusercontent.com/lPXCmCVSfI3NJ8QH0-m9hCwZhZ09sTzI4PhIgrMeZ0TQI8HXtE6jOq1bXik9V9RETA" group-title="CANAIS | PAY-PER-VIEW",Champions League 06
+http://digplus.me:80/65515104/59962229/3920659
+
+#EXTINF:-1 tvg-id="cine.brasil.br" tvg-name="Cine Canal FHD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JK6AgAKpGY7hP70wG0bZ9YxgG9eAEOYy0TCJh-iRwvEA.png" group-title="CANAIS | FILMES & SERIES",Cine Canal FHD
+http://digplus.me:80/65515104/59962229/3916508
+#EXTINF:-1 tvg-id="cine.brasil.br" tvg-name="Cine Canal FHD²" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JK6AgAKpGY7hP70wG0bZ9YxgG9eAEOYy0TCJh-iRwvEA.png" group-title="CANAIS | FILMES & SERIES",Cine Canal FHD²
+http://digplus.me:80/65515104/59962229/3932424
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="CANAIS | CINE SKY",Cine Sky 01
+http://digplus.me:80/65515104/59962229/3922918
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 02" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="CANAIS | CINE SKY",Cine Sky 02
+http://digplus.me:80/65515104/59962229/3922919
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 03" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="CANAIS | CINE SKY",Cine Sky 03
+http://digplus.me:80/65515104/59962229/3922920
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 04" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="CANAIS | CINE SKY",Cine Sky 04
+http://digplus.me:80/65515104/59962229/3922921
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 05" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="CANAIS | CINE SKY",Cine Sky 05
+http://digplus.me:80/65515104/59962229/3922922
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 06" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="CANAIS | CINE SKY",Cine Sky 06
+http://digplus.me:80/65515104/59962229/3922923
+
+
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JFaxQxBAjKQbdKDytKrHsPjo6jq91_LwpHbfFhz3bQdl.png" group-title="CANAIS | FILMES & SERIES",Cinemax HD
+http://digplus.me:80/65515104/59962229/3916510
+
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://tbsrv.me/images/QCqX5p5x3Y181Q8jwb82JFaxQxBAjKQbdKDytKrHsPjo6jq91_LwpHbfFhz3bQdl.png" group-title="CANAIS | FILMES & SERIES",Cinemax SD
+http://digplus.me:80/65515104/59962229/3916511
