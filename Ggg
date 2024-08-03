@@ -1,0 +1,56 @@
+#EXTM3U
+
+
+
+###########Canais
+
+
+
+
+#EXTINF:-1  tvg-id="tvg-name=" GLOBO  "tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2legotxyraoZBVuw-7ORE8Qws7xJDpnzStHCyBP2kJkgHzdhOUt2lmSg&s=10   " group-title="   CANAIS ABERTO
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1  tvg-id="tvg-name="   "tvg-logo="    " group-title="   
+
+#EXTINF:-1  tvg-id="tvg-name="   "tvg-logo="    " group-title="   
+
+#EXTINF:-1  tvg-id="tvg-name="   "tvg-logo="    " group-title="   
+
+
+
+
+
+##### FILMES
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool & Wolverine (2024) LEG" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qkhZRqCWqJ376sBzD4MeAO2w4wv.jpg" group-title="FILMES | LEGENDADOS",Deadpool & Wolverine (2024) LEG
+http://digplus.me:80/movie/65515104/59962229/3959809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: O Reinado (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg" group-title="FILMES | LANÇAMENTOS 2024",Planeta dos Macacos: O Reinado (2024)
+http://digplus.me:80/movie/65515104/59962229/3959609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Lugar Silencioso: Dia Um (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pN9BtzUeqPIKybAu9baihz6YzyO.jpg" group-title="FILMES | LANÇAMENTOS 2024",Um Lugar Silencioso: Dia Um (2024)
+http://digplus.me:80/movie/65515104/59962229/3959196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool & Wolverine (2024) - CINEMA" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qkhZRqCWqJ376sBzD4MeAO2w4wv.jpg" group-title="FILMES | CINEMA",Deadpool & Wolverine (2024) - CINEMA
+
+
+
+###############SERIES
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Naruto  S01 E01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvQDeoqI-bt1-zrNyHU6-rl9lRR4UZr-vjqqIl9OzJkScr11oKwe60UEM&s=10" group-title="SERIES | ANIMES",Naruto S01 E01
+https://mangas.cloud//Animes/Letra-N/Naruto%20Classico%20Dublado/001.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Naruto  S01 E02" tvg-logo="" group-title="SERIES | ANIMES",Naruto S01 E02
+https://mangas.cloud//Animes/Letra-N/Naruto%20Classico%20Dublado/002.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Naruto  S01 E03" tvg-logo="" group-title="SERIES | ANIMES",Naruto S01 E03
+https://mangas.cloud//Animes/Letra-N/Naruto%20Classico%20Dublado/003.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Naruto  S01 E04" tvg-logo="" group-title="SERIES | ANIMES",Naruto S01 E04
+https://mangas.cloud//Animes/Letra-N/Naruto%20Classico%20Dublado/004.mp4
+
+
+
+
+
